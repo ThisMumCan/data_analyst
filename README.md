@@ -11,7 +11,7 @@ This will be a place for me to show my progress to potential employers as well a
 
 Here are the courses I have completed. While studying, I created repositories to document my progress, share my work, and stay accountable for completing the tasks.
 
-- **Skills City Bootcamp** (To be added)
+- [Skills City Bootcamp](https://github.com/ThisMumCan/SkillsCityDataAnalyticsBootcamp)
 
 ## Certificates & Badges
 
